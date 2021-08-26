@@ -7,7 +7,7 @@ def main():
 
     m = (y2-y1) / (x2-x1)
 
-    print('El valor de la pendiente es igual a:', m)
+    print('Pendiente:', m)
 
 if __name__ == '__main__':
     main()
